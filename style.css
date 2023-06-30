@@ -14,8 +14,31 @@
   cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ TS.cur), auto;
 }
 
+.flashing-button {
+  position: relative;
+  animation: flashing-text 0.5s infinite;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
+  text-decoration: none;
+  width: 200px;
+  height: 70px;
+  padding: 10px 20px;
+  font-size: 30px;
+}
+
+@keyframes flashing-text {
+  0% {
+    color: rgb(255, 255, 255);
+  }
+  50% {
+    color: rgb(255, 16, 240);
+  }
+  100% {
+    color: rgb(255, 255, 255);
+  }
+}
+
 html, body {
-    background-color: rgb(237, 241, 255);
+    background-color: rgb(186, 186, 186);
     cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty.cur), auto;
   }
   
