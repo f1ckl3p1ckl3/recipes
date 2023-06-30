@@ -1,22 +1,22 @@
 
 @font-face {
   font-family: "Playfair";
-  src: url("Playfair_Display/static/Playfair_Display-Italic.ttf");
+  src: url("assets/Playfair_Display/static/Playfair_Display-Italic.ttf");
 }
 .cursor-help {
-  cursor: url(strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
   text-decoration: none;
 }
 
 .text-container {
   display: inline-block;
   width: auto;
-  cursor: url(strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ TS.cur), auto;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ TS.cur), auto;
 }
 
 html, body {
     background-color: rgb(237, 241, 255);
-    cursor: url(strawberry-hello-kitty/Strawberry\ Hello\ Kitty.cur), auto;
+    cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty.cur), auto;
   }
   
 h1 {
