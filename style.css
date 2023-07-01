@@ -25,6 +25,26 @@
   font-size: 30px;
 }
 
+.container {
+  display: flex;
+  align-items: left;
+  gap: 10px;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
+}
+
+.container a {
+  flex: 1;
+}
+.container img {
+  margin-left: 100px;
+}
+
+.gif-container {
+  display: flex;
+  margin: 0 auto;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
+}
+
 @keyframes flashing-text {
   0% {
     color: rgb(255, 255, 255);
