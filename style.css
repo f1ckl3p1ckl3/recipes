@@ -1,14 +1,14 @@
 
-@font-face {
+/* @font-face {
   font-family: "Playfair";
   src: url("assets/Playfair_Display/static/Playfair_Display-Italic.ttf");
 }
 .cursor-help {
   cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
   text-decoration: none;
-}
+} */
 
-.text-container {
+/* .text-container {
   display: inline-block;
   width: auto;
   cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ TS.cur), auto;
@@ -55,14 +55,132 @@
   100% {
     color: rgb(255, 255, 255);
   }
+} */
+
+/* CORE WEBSITE STYLE */
+
+html {
+  background-color: rgb(186, 186, 186);
+  /* background-size: contain; */
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty.cur), auto;
 }
 
-html, body {
-    background-color: rgb(186, 186, 186);
-    cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty.cur), auto;
-  }
-  
-h1 {
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* NAVIGATION BAR STYLE */
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  flex: auto;
+  align-items: center;
+  padding: 30px 20px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  display: flex;
+  flex: auto;
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
+}
+
+/* SEARCH BAR */
+
+.search-bar {
+  margin-right: auto;
+  display: flex;
+}
+
+.search-bar input[type="text"] {
+  padding: 5px;
+  margin-right: 5px;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ TS.cur), auto;
+}
+
+.search-bar button {
+  padding: 5px 10px;
+  background-color: #555;
+  color: #fff;
+  border: none;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
+}
+
+.search-bar button:hover {
+  background-color: #777;
+}
+
+/* RECIPE CONTAINER */
+
+.recipe-container {
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  gap: 10px 10px;
+  aspect-ratio: 1/1;
+}
+
+.recipe-item {
+  width: 33.33%;
+  margin-bottom: 10px;
+  position: relative;
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
+}
+
+.recipe-item img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.text-item {
+  display: flex;
+  align-content: flex-end;
+}
+
+.text-item h3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.recipe-item:hover .text-item, 
+.recipe-item img:hover{
+  transform: scale(1.01);
+  cursor: url(assets/strawberry-hello-kitty/Strawberry\ Hello\ Kitty\ HS.cur), auto;
+}
+
+
+
+/* h1 {
     color: rgb(0, 0, 0);
     margin-left: 20px;
-  }
+  } */
