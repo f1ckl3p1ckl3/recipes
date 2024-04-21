@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import SearchBar from './components/SearchBar.js';
+import Header from './components/Header.js';
 
-function App() {
+const App = () => {
+  const handleSearch = (query) => {
+    // Implement your search logic here, e.g., fetch data based on the query
+    console.log('Searching for:', query);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header onSearch={handleSearch} />
+      {/* Other components */}
     </div>
   );
-}
+};
 
 export default App;
+
