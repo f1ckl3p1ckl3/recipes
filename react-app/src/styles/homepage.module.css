@@ -1,0 +1,19 @@
+
+.body {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.body h1{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+}
+
+.body CardGrid:hover {
+    transform: scale(1.01);
+}
+
+.body h2 {
+    padding-bottom: 100px;
+}
