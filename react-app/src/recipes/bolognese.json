@@ -1,8 +1,8 @@
 {
-    "id": 2,
-    "image": "../assets/bolognese.jpg",
+    "id": 1,
+    "image": "bolognese.jpg",
     "title": "Bolognese",
-    "summary": "Mika's recipe",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
     "url": "/recipes/bolognese",
     "ingredients": [
         "1 large brown onion",

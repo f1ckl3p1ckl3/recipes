@@ -1,8 +1,8 @@
 {
-    "id": 1,
-    "image": "../assets/pumpkinrisotto.jpg",
+    "id": 0,
+    "image": "pumpkinrisotto.jpg",
     "title": "Pumpkin and Chorizo Risotto",
-    "summary": "Recipe courtesy of Jo's cookbook",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
     "url": "/recipes/pumpkinchorizorisotto",
     "ingredients": [
         "2 1/2 cups arborio rice",
