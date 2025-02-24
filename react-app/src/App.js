@@ -22,14 +22,16 @@ importAll(require.context("./recipes", false, /\.json$/));
 
 
 function App() {
+  const recipesArray = Object.values(allRecipes);
   return (
     <div>
       <NavBar />
         <Routes>
           <Route path='/' element={<HomePage />} />
-          {/* include a loop here to load in all recipes */}
-          <Route path='/recipes/pumpkinchorizorisotto' element={<RecipePage title={allRecipes.bolognese.title} image="holder/js.500px400"/>} />
-          <Route path='/recipes' element={<RecipePage title="More Recipes"/>} />
+            {/* load in all the recipes */}
+            {recipesArray.map((recipe) => (
+            <Route path={recipe.url} element={<RecipePage title={recipe.title} image={`/images/${recipe.image}`}/>} />
+          ))}
         </Routes>
     </div>
   );
