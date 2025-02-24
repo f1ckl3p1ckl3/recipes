@@ -1,20 +1,26 @@
 .body {
     padding-top: 60px;
 
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .body h1{
     text-align: center;
+    padding-bottom: 0px;
+}
+.body h2{
+    padding-bottom: 20px;
 }
 
-.image {
+.body img {
     vertical-align: middle;
+    scale: 0.75;
 }
 
 .body p {
+    padding-top: 20px;
     margin-left: auto;
     margin-right: auto;
-    
+    padding-bottom: 50px
 }
