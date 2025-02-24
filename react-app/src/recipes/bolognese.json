@@ -1,0 +1,31 @@
+{
+    "id": 2,
+    "image": "../assets/bolognese.jpg",
+    "title": "Bolognese",
+    "summary": "Mika's recipe",
+    "url": "/recipes/bolognese",
+    "ingredients": [
+        "1 large brown onion",
+        "2 cloves of garlic",
+        "1 can of chopped tomatoes",
+        "1 bottle of passata",
+        "1 little plastic thing (the technical term) of tomato paste",
+        "500g gram beef mince",
+        "Basil",
+        "Oregano",
+        "Spaghetti"
+    ],
+    "method": [
+        "Finely chop the onion, and put it in a pan with some olive oil over medium heat.",
+        "Fry this gently until the onion turns golden brown, don't burn it, and take your time with this step it's worth it for the flavour.",
+        "Add the garlic (I use a press, but you can chop it up finely too if you prefer).",
+        "Add about a teaspoon of the basil and oregano (or just eyeball it like I do)",
+        "Fry for another minute or two but stir constantly and dont let the garlic burn.",
+        "Add the mince meat, turn up the heat a little so that the meat actually browns properly.",
+        "Once the meat is cooked, add puree, chopped tomatoes, and paste.",
+        "Turn the heat down a bit and reduce the sauce until its nice and thick. After a few minutes taste to check if you need more basil or oregano since this is the last point you can add them.",
+        "Season to taste with salt and pepper, but don't add the other spices again this late.",
+        "Serve with your preferred pasta and parmesan (the parmesan is not optional)."
+    ]
+
+}

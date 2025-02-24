@@ -1,0 +1,28 @@
+{
+    "id": 1,
+    "image": "../assets/pumpkinrisotto.jpg",
+    "title": "Pumpkin and Chorizo Risotto",
+    "summary": "Recipe courtesy of Jo's cookbook",
+    "url": "/recipes/pumpkinchorizorisotto",
+    "ingredients": [
+        "2 1/2 cups arborio rice",
+        "1/2 butternut pumpkin",
+        "1/3 queensland blue pumpkin",
+        "1 onion",
+        "1 cup parmesan cheese",
+        "1/2 cup dry white wine",
+        "2 chorizo",
+        "2 Litres chicken stock"
+    ],
+    "method": [
+        "Chop the onion finely and fry in olive oil in a large frying pan until nice and caremalised",
+        "Meanwhite set a small saucepan on a low heat to warm chicken stock, ladel at the ready",
+        "Next chop the chorizo into small pieces - You can add them to the onions when they are translucent",
+        "Chop the pumpkins into small 1 cm cubes, salt and coat in olive oil and place in hot oven 200°C (Should take about 20 mins until nice and soft and slightly caramalised",
+        "When the onions and chorizo are ready, add hte arborio rice",
+        "Fully coat the rice in oils of pan and fry for about a minute then start adding the white wine",
+        "When that has been absorbed, follow with chicken stock 1-2 ladels at a time until al-dente",
+        "Finally at the end, mix in pumpkin and the parmesan, and season with a bit of pepper"
+    ]
+
+}

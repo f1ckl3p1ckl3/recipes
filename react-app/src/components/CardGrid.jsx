@@ -9,6 +9,7 @@ import butterchicken from '../assets/butterchicken.jpg';
 import bolognese from '../assets/bolognese.jpg';
 import puttanesca from '../assets/puttanesca.jpg';
 import UniqueCard from './UniqueCard';
+import myData from '../recipes/pumpkinrisotto.json';
 
 
 const images = [bolognese, chorizochicken, risotto, chillicon, lasagne, butterchicken, pesto, puttanesca];
@@ -22,7 +23,7 @@ function CardGrid() {
     <Row xs={3} md={3} className="g-4">
       {Array.from({ length: titles.length }).map((_, idx) => (
         <Col key={idx}>
-          <UniqueCard title={titles[idx]} text={text[0]} image={images[idx] } link={link[idx%3]}/>
+          <UniqueCard title={myData.title} text={text[0]} image={images[idx] } link={myData.url}/>
         </Col>
       ))}
     </Row>
