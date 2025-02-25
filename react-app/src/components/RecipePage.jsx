@@ -9,8 +9,12 @@ export default function RecipePage(props)
     return(
         <div className={styles.body}>
             <h1>{props.title}</h1>
+            <h6>{props.summary}</h6>
             <div className={styles.image}>
+                <figure>
                 <Image src={props.image} fluid rounded/>
+                <figcaption><i>{props.title}</i></figcaption>
+                </figure>
             </div>
             <h2>Ingredients:</h2>
             <p>

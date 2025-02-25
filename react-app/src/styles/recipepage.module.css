@@ -1,25 +1,38 @@
 .body {
-    padding-top: 60px;
-
     margin-left: 200px;
     margin-right: 200px;
 }
 
 .body h1{
+    padding-top: 60px;
     text-align: center;
-    padding-bottom: 0px;
 }
 .body h2{
     padding-bottom: 20px;
 }
 
+.body h6{
+    padding-top: 100px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-bottom: 60px;
+}
+
 .body img {
-    vertical-align: middle;
-    scale: 0.75;
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+
+}
+
+.body figcaption {
+    margin-left: 155px;
+    padding-bottom: 60px;
 }
 
 .body p {
-    padding-top: 20px;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 50px
