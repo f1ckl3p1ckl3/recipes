@@ -8,7 +8,7 @@
     text-align: center;
 }
 .body h2{
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .body h6{
@@ -16,7 +16,7 @@
     text-align: center;
     margin-left: 150px;
     margin-right: 150px;
-    padding-bottom: 60px;
+    padding-bottom: 40px;
 }
 
 .body img {
@@ -26,6 +26,11 @@
     margin: 0 auto;
 
 }
+/* .fitting-image {
+    width: 150px;
+    height: 150px;
+    object-fit: scale-down;
+} */
 
 .body figcaption {
     margin-left: 155px;
@@ -35,5 +40,5 @@
 .body p {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 50px
+    padding-bottom: 30px
 }

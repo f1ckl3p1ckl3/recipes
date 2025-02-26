@@ -5,7 +5,7 @@ export default function HomePage() {
     return (
         <div>
         <div className={styles.body}>
-            <h1> simple homepage </h1>
+            <h1> my favourite recipes :) </h1>
             <CardGrid />
         </div>
         <h2></h2>

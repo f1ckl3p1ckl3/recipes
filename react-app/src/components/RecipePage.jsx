@@ -12,7 +12,7 @@ export default function RecipePage(props)
             <h6>{props.summary}</h6>
             <div className={styles.image}>
                 <figure>
-                <Image src={props.image} fluid rounded/>
+                <Image src={props.image} fluid rounded class="fitting-image"/>
                 <figcaption><i>{props.title}</i></figcaption>
                 </figure>
             </div>
