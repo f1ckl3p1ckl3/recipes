@@ -30,7 +30,7 @@ function App() {
           <Route path='/' element={<HomePage />} />
             {/* load in all the recipes */}
             {recipesArray.map((recipe) => (
-            <Route path={recipe.url} element={<RecipePage title={recipe.title} image={`/images/${recipe.image}`} ingredients={recipe.ingredients} method={recipe.method} summary={recipe.summary}/>} />
+            <Route path={recipe.url} element={<RecipePage title={recipe.title} image={`images/${recipe.image}`} ingredients={recipe.ingredients} method={recipe.method} summary={recipe.summary}/>} />
           ))}
         </Routes>
     </div>

@@ -27,23 +27,15 @@ export default function NavBar()
         <div className={styles.navbar}>
         <Navbar style={{marginLeft: -30, marginRight: -30}} bg="light" data-bs-theme="light">
             <Container>
-                <Navbar.Brand href="/">
+                <Navbar.Brand href="/recipes/">
                     <img src={miffy} width="50" height="50" alt="miffy"/>
                 </Navbar.Brand>
                 <Nav className="me-auto">
-                    <Nav.Link href="/">Home</Nav.Link>
+                    <Nav.Link href="/recipes/">Home</Nav.Link>
                     <NavDropdown title="All Recipes" id="basic-nav-dropdown">
                     {recipesArray.map((recipe) =>
-                        <NavDropdown.Item href={recipe.url}>{recipe.title}</NavDropdown.Item>
+                        <NavDropdown.Item><Nav.Link href={`/recipes/${recipe.url}`}>{recipe.title}</Nav.Link></NavDropdown.Item>
                     )}
-                        {/* <NavDropdown.Item href="/">Bolognese</NavDropdown.Item>
-                        <NavDropdown.Item href="/">Lasagne</NavDropdown.Item>
-                        <NavDropdown.Item href="/">Pesto</NavDropdown.Item> */}
-                    </NavDropdown>
-                    <NavDropdown title="Nana's Recipes" id="basic-nav-dropdown">
-                        <NavDropdown.Item href="/">Blah</NavDropdown.Item>
-                        <NavDropdown.Item href="/">Blah</NavDropdown.Item>
-                        <NavDropdown.Item href="/">Blah</NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
             </Container>
