@@ -34,7 +34,7 @@ export default function NavBar()
                     <Nav.Link href="/recipes/">Home</Nav.Link>
                     <NavDropdown title="All Recipes" id="basic-nav-dropdown">
                     {recipesArray.map((recipe) =>
-                        <NavDropdown.Item><Nav.Link href={`/recipes/${recipe.url}`}>{recipe.title}</Nav.Link></NavDropdown.Item>
+                        <NavDropdown.Item href={`${recipe.url.slice(1)}`}>{recipe.title}</NavDropdown.Item>
                     )}
                     </NavDropdown>
                 </Nav>
