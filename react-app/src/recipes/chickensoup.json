@@ -1,0 +1,29 @@
+{
+    "id": 10,
+    "image": "chickensoup.webp",
+    "title": "Chicken Soup",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "url": "/chickensoup",
+    "ingredients": [
+        "1 onion",
+        "1 packet of chicken breast fillets",
+        "3-4 potatoes",
+        "4 carrots",
+        "1 turnip",
+        "1 swede",
+        "3 stalks of celery",
+        "3 L chicken stock",
+        "1/2 tsp marjaram",
+        "Bunch of parsley"
+    ],
+    "method": [
+        "Chop the onion finely, dice the carrot, potato, swede and turnip into 1 inch pieces",
+        "Cut the chicken into small pieces and chop the celery finely",
+        "Heat some olive oil in a large casserole dish, and add the onion + herbs, salt and pepper",
+        "Let the onion get translucent before adding the chicken",
+        "When chicken is mostly cooked and simmering in juices add the veggies",
+        "Stir often so the veggies dont burn, and when veggies are vibrant add stock and bay leaf",
+        "Bring soup to a boil and then let it simmer for 30 mins to an hour"
+    ]
+
+}

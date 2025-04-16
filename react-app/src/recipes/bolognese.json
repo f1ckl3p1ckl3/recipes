@@ -2,8 +2,10 @@
     "id": 1,
     "image": "bolognese.jpg",
     "title": "Bolognese",
-    "summary": "Bolognese is a rich and hearty Italian meat sauce, traditionally made with ground beef or pork, tomatoes, and aromatic vegetables, slow-cooked to develop deep flavors.",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
     "url": "/bolognese",
+    "source": "Jo",
+    "category": "Pasta",
     "ingredients": [
         "1 large brown onion",
         "2 cloves of garlic",

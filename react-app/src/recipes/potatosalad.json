@@ -1,0 +1,24 @@
+{
+    "id": 14,
+    "image": "chickenschnit.webp",
+    "title": "Potato Salad",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "url": "/potatosalad",
+    "ingredients": [
+        "2kg potatoes (if making for two, ~6 potatoes)",
+        "1 cup sour cream",
+        "1/2 cup mayonaise",
+        "1 tbsp yellow mustard (GERMAN ONE FROM ADELAIDE!!!)",
+        "1 red onion, finely chopped",
+        "1 large glass dill pickles, finely chopped",
+        "1/2 cup fresh herbs (parsley, dill, etc)",
+        "4 hard boiled eggs, peeled and chopped"
+    ],
+    "method": [
+        "Cook potatoes with salt (15-20 mins or until easily pierced with a fork)",
+        "While the potatoes cook prepare the dressing: a) Chop onions + pickles + herbs, b) Combine these and sour cream, mayonnaise and mustard in a small bowl",
+        "Add potatoes to a LARGE bowl and scatter the dressing over the potatoes",
+        "Best served chilled"
+    ]
+
+}

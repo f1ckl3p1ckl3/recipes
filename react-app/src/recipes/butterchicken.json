@@ -2,13 +2,28 @@
     "id": 5,
     "image": "butterchicken.jpg",
     "title": "Butter Chicken",
-    "summary": "Butter chicken is a creamy, spiced Indian dish made with marinated chicken cooked in a rich tomato-based sauce with butter and cream. Served with naan or rice, it’s known for its mild heat and velvety texture.",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
     "url": "/butterchicken",
     "ingredients": [
-        ""
+        "[Marinade] 1/2 cup plain yoghurt",
+        "[Marinade] 1 tbsp lemon juice",
+        "[Marinade] 1 tsp tumeric powder",
+        "[Marinade] 2 tsp garam masala",
+        "[Marinade] 1/2 tsp chilli powder or cayenne pepper powder",
+        "[Marinade] 1 tsp ground cumin",
+        "[Marinade] 1 tbsp ginger, freshly grated",
+        "[Marinade] 2 cloves garlic, crushed",
+        "[Marinade] 1 packet of chicken breast",
+        "2 tbsp of butter",
+        "1 cup tomato passata",
+        "1 cup heavy cream",
+        "1 tbsp sugar",
+        "1 1/4 tsp salt"
     ],
     "method": [
-        ""
+        "Combine the Marinade ingredients with the chicken in a bowl. Cover and refrigerate overnight, or up to 24 hours (minimum 3 hrs).",
+        "Heat the ghee (butter or oil) over high heat in a large fry pan. Take the chicken out of the Marinade but do not wipe or shake off the marinade from the chicken (but don’t pour the Marinade left in the bowl into the fry pan).",
+        "Place chicken in the fry pan and cook for around 3 minutes, or until the chicken is white all over (it doesn’t really brown because of the Marinade)."
     ]
 
 }

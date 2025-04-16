@@ -1,0 +1,29 @@
+{
+    "id": 9,
+    "image": "chickenschnit.webp",
+    "title": "Chicken Schnitzel",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "url": "/chickenschnit",
+    "source": "Me",
+    "category": "Savoury",
+    "ingredients": [
+        "1 packet of chicken breast fillets",
+        "3/4 cup gf bread crumbs",
+        "3/4 cup gf flour",
+        "2-3 eggs",
+        "Oregano",
+        "Basil",
+        "Salt",
+        "Pepper"
+    ],
+    "method": [
+        "Slice chicken breast in half, and pound until tenderised and pretty thin",
+        "Coat meat in flour, shake off execess - dip into egg, then dip into bread crumb mixture (which contains herbs + salt and pepper)",
+        "Repeat for remaining chicken fillets",
+        "Heat a layer of oil (vegetable) in a frypan until hot",
+        "Cook schnitzels until golden on one side, then flip (should be ~3 mins each side)",
+        "Transfer to a paper towel lined plate to drain excess oil, sprinkle with salt",
+        "Serve with some potato salad + beetroot and feta salad"
+    ]
+
+}

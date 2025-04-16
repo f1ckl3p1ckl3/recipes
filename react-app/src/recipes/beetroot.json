@@ -1,0 +1,24 @@
+{
+    "id": 15,
+    "image": "chickenschnit.webp",
+    "title": "Beetroot and Feta Salad",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "url": "/beetrootsalad",
+    "source": "Jo",
+    "category": "Salad",
+    "ingredients": [
+        "2 jars of baby beetroots (precooked)",
+        "60g feta cheese",
+        "2 tbsp chopped parsley",
+        "3 tbsp lemon juice",
+        "3 tbsp olive oil",
+        "2 minced garlic cloves",
+        "1/2 tsp salt and pepper"
+    ],
+    "method": [
+        "Quarter the baby beetroots and add to a bowl, with cubed feta",
+        "To make the lemon vinaigrette: combine parsley, lemon juice, olive oil, garlic, salt and pepper in a small dish and mix thoroughly",
+        "Pour lemon vinaigrette over beetroots and feta - toss and serve" 
+    ]
+
+}
