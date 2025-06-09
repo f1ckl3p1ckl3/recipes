@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/recipes/static/css/main.b2a0030e.css",
-    "main.js": "/recipes/static/js/main.393de86f.js",
+    "main.css": "/recipes/static/css/main.8ffc2394.css",
+    "main.js": "/recipes/static/js/main.b38bb40b.js",
     "static/js/453.679e8433.chunk.js": "/recipes/static/js/453.679e8433.chunk.js",
     "static/media/miffy-cook.png": "/recipes/static/media/miffy-cook.9598a8f7eadfa02b4d30.png",
     "static/media/DEFAULT.cur": "/recipes/static/media/DEFAULT.156916f1490131edb721.cur",
     "static/media/HS.cur": "/recipes/static/media/HS.1299e6cbc0774e7e8cc5.cur",
     "index.html": "/recipes/index.html",
-    "main.b2a0030e.css.map": "/recipes/static/css/main.b2a0030e.css.map",
-    "main.393de86f.js.map": "/recipes/static/js/main.393de86f.js.map",
+    "main.8ffc2394.css.map": "/recipes/static/css/main.8ffc2394.css.map",
+    "main.b38bb40b.js.map": "/recipes/static/js/main.b38bb40b.js.map",
     "453.679e8433.chunk.js.map": "/recipes/static/js/453.679e8433.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2a0030e.css",
-    "static/js/main.393de86f.js"
+    "static/css/main.8ffc2394.css",
+    "static/js/main.b38bb40b.js"
   ]
 }
