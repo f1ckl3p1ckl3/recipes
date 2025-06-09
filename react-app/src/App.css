@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+body {
+  cursor: url('assets/hello-kitty-cursor/DEFAULT.cur'), auto;
+}
+
+a,
+a:hover,
+a:focus {
+  cursor: url('assets/hello-kitty-cursor/HS.cur'), auto;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

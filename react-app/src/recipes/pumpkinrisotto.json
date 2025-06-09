@@ -2,17 +2,25 @@
     "id": 0,
     "image": "pumpkinrisotto.jpg",
     "title": "Pumpkin and Chorizo Risotto",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "Absolute classic and is literally THE comfort food...",
+    "extendedSummary": "Absolute classic and is literally THE comfort food for me. I adore pumpkin, and it definitely feels like a winter recipe, but I cook this shit all year round because it is super good. I like to top it with mozzarella cheese, but Mika says this is a sin.",
     "url": "/pumpkinchorizorisotto",
+    "source": "Mika",
+    "serves": "6",
     "ingredients": [
-        "2 1/2 cups arborio rice",
-        "1/2 butternut pumpkin",
-        "1/3 queensland blue pumpkin",
-        "1 onion",
-        "1 cup parmesan cheese",
-        "1/2 cup dry white wine",
-        "2 chorizo",
-        "2 Litres chicken stock"
+        {
+            "section": null,
+            "items": [
+                "2 1/2 cups arborio rice",
+                "1/2 butternut pumpkin",
+                "1/3 queensland blue pumpkin",
+                "1 onion",
+                "1 cup parmesan cheese",
+                "1/2 cup dry white wine",
+                "2 chorizo",
+                "2 Litres chicken stock"
+            ]
+        }
     ],
     "method": [
         "Chop the onion finely and fry in olive oil in a large frying pan until nice and caremalised",

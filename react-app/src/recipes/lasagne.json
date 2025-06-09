@@ -2,22 +2,30 @@
     "id": 4,
     "image": "lasagne.jpg",
     "title": "Lasagne",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "Perhaps the greatest lasagne recipe of all time...",
+    "extendedSummary": "Perhaps the greatest lasagne recipe of all time.. this honestly sends me straight back to my childhood tuckshop order in prep when I had a 'pasta blasta'. I had maybe a few of those that year before getting diagnosed with coeliac disease and I miss the rich cheeseyness. This recipe is extremely cheesey, and is definitely not for everyone... but if you are a fan of rich, cheesey lasagnes, then this is for you.",
     "url": "/lasagne",
+    "source": "Mika",
+    "serves": "6",
     "ingredients": [
-        "1 large brown onion",
-        "2 cloves of garlic",
-        "1 can of chopped tomatoes",
-        "1 bottle of passata",
-        "1 little plastic thing (the technical term) of tomato paste",
-        "500g gram beef mince",
-        "Basil",
-        "Oregano",
-        "1 container of fresh mozzarella, thinly sliced",
-        "1 packet of shredded cheddar",
-        "1 packet of shredded mozzarella",
-        "1 packet of parmesan",
-        "1 and a half packets of gf lasagne sheets"
+        {
+            "section": null,
+            "items": [
+                "1 large brown onion",
+                "2 cloves of garlic",
+                "1 can of chopped tomatoes",
+                "1 bottle of passata",
+                "1 little plastic thing (the technical term) of tomato paste",
+                "500g gram beef mince",
+                "Basil",
+                "Oregano",
+                "1 container of fresh mozzarella, thinly sliced",
+                "1 packet of shredded cheddar",
+                "1 packet of shredded mozzarella",
+                "1 packet of parmesan",
+                "1 and a half packets of gf lasagne sheets"
+            ]
+        }
     ],
     "method": [
         "Go follow the bolognese recipe for the sauce!",

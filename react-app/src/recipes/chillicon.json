@@ -2,23 +2,31 @@
     "id": 3,
     "image": "chillicon.jpg",
     "title": "Chilli Con Carne",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "Wholesome meal perfect for winter and is definitely...",
+    "extendedSummary": "Wholesome meal perfect for winter, and is definitely Mika's favourite if he is ever feeling meh. I think it always tastes better with way more chilli powder than you expect.",
     "url": "/chillicon",
+    "source": "Mika",
+    "serves": "6",
     "ingredients": [
-        "1 large onion",
-        "1 red capsicum",
-        "2 garlic cloves",
-        "250ml beef stock",
-        "1 tbsp olive oil",
-        "1 tsp chilli powder",
-        "1 tsp paprika",
-        "1 tsp ground cumin",
-        "500g mined beef",
-        "400g can chopped tomatoes",
-        "1/2 tsp marjoram",
-        "1 tsp sugar or a square of dark chocolate",
-        "2 tbsp tomato purée",
-        "410g can red kidney beans"
+        {
+            "section": null,
+            "items": [
+                "1 large onion",
+                "1 red capsicum",
+                "2 garlic cloves",
+                "250ml beef stock",
+                "1 tbsp olive oil",
+                "1 tsp chilli powder",
+                "1 tsp paprika",
+                "1 tsp ground cumin",
+                "500g mined beef",
+                "400g can chopped tomatoes",
+                "1/2 tsp marjoram",
+                "1 tsp sugar or a square of dark chocolate",
+                "2 tbsp tomato purée",
+                "410g can red kidney beans"
+            ]
+        }
     ],
     "method": [
         "Chop onion and red pepper and mince garlic",

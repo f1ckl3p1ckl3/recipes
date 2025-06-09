@@ -2,23 +2,37 @@
     "id": 5,
     "image": "butterchicken.jpg",
     "title": "Butter Chicken",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "Random recipe which turned out alright, and is a fun one to do...",
+    "extendedSummary": "Random recipe which turned out alright, and is a fun one to do occassionally. Honestly, I'm not super sold on it, as I've had waaaayyy better butter chicken at restaurants, but this is a place holder butter chicken recipe until I can figure out how Piquancy on Auburn Rd does their curry... so fucking good man",
     "url": "/butterchicken",
+    "source": "RecipeTin Eats... do not sue me for plagarism pls",
+    "serves": "2",
+    "category": "Curry",
     "ingredients": [
-        "[Marinade] 1/2 cup plain yoghurt",
-        "[Marinade] 1 tbsp lemon juice",
-        "[Marinade] 1 tsp tumeric powder",
-        "[Marinade] 2 tsp garam masala",
-        "[Marinade] 1/2 tsp chilli powder or cayenne pepper powder",
-        "[Marinade] 1 tsp ground cumin",
-        "[Marinade] 1 tbsp ginger, freshly grated",
-        "[Marinade] 2 cloves garlic, crushed",
-        "[Marinade] 1 packet of chicken breast",
-        "2 tbsp of butter",
-        "1 cup tomato passata",
-        "1 cup heavy cream",
-        "1 tbsp sugar",
-        "1 1/4 tsp salt"
+        {
+            "section": "Marinade",
+            "items": [
+                "1/2 cup plain yoghurt",
+                "1 tbsp lemon juice",
+                "1 tsp tumeric powder",
+                "2 tsp garam masala",
+                "1/2 tsp chilli powder or cayenne pepper powder",
+                "1 tsp ground cumin",
+                "1 tbsp ginger, freshly grated",
+                "2 cloves garlic, crushed",
+                "1 packet of chicken breast"
+            ]
+        },
+        {
+            "section": "Sauce",
+            "items": [
+                "2 tbsp of butter",
+                "1 cup tomato passata",
+                "1 cup heavy cream",
+                "1 tbsp sugar",
+                "1 1/4 tsp salt"
+            ]
+        }
     ],
     "method": [
         "Combine the Marinade ingredients with the chicken in a bowl. Cover and refrigerate overnight, or up to 24 hours (minimum 3 hrs).",

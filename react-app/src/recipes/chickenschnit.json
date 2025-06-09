@@ -2,19 +2,26 @@
     "id": 9,
     "image": "chickenschnit.webp",
     "title": "Chicken Schnitzel",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "I really enjoy how crispy the coating gets in this...",
+    "extendedSummary": "I really enjoy how crispy the coating gets in this recipe, but pairing it with a few sides is honestly a must. I think this would also be a perfect base layer for a chicken parma, just adding some marinara sauce and a fuck load of mozzarella and chucking that in the oven would work.",
     "url": "/chickenschnit",
     "source": "Me",
+    "serves": "4",
     "category": "Savoury",
     "ingredients": [
-        "1 packet of chicken breast fillets",
-        "3/4 cup gf bread crumbs",
-        "3/4 cup gf flour",
-        "2-3 eggs",
-        "Oregano",
-        "Basil",
-        "Salt",
-        "Pepper"
+        {
+            "section": null,
+            "items": [
+                "1 packet of chicken breast fillets",
+                "3/4 cup gf bread crumbs",
+                "3/4 cup gf flour",
+                "2-3 eggs",
+                "Oregano",
+                "Basil",
+                "Salt",
+                "Pepper"
+            ]
+        }
     ],
     "method": [
         "Slice chicken breast in half, and pound until tenderised and pretty thin",

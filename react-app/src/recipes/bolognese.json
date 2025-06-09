@@ -2,20 +2,27 @@
     "id": 1,
     "image": "bolognese.jpg",
     "title": "Bolognese",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "The greatest bolognese recipe of all time - it is rich, tomatoey and...",
+    "extendedSummary": "The greatest bolognese recipe of all time - it is rich, tomatoey and honestly tastes better than most restaurants. It was one of the first meals which Mika cooked for me, and it is the perfect comfort meal. I remember I was feeling down after one of my 8:30 pm uni classes, and Mika whipped this meal up as a surprise and it literally made my day. He also made this for me when I got the contract for my job and paired it with champagne >:3 This is a very powerful recipe and has healing properties. +100 health. I like serving it with garlic bread, and a random salad.",
     "url": "/bolognese",
-    "source": "Jo",
+    "source": "Mika",
+    "serves": "6",
     "category": "Pasta",
     "ingredients": [
-        "1 large brown onion",
-        "2 cloves of garlic",
-        "1 can of chopped tomatoes",
-        "1 bottle of passata",
-        "1 little plastic thing (the technical term) of tomato paste",
-        "500g gram beef mince",
-        "Basil",
-        "Oregano",
-        "Spaghetti"
+        {
+            "section": null,
+            "items": [
+                "1 large brown onion",
+                "2 cloves of garlic",
+                "1 can of chopped tomatoes",
+                "1 bottle of passata",
+                "1 little plastic thing (the technical term) of tomato paste",
+                "500g gram beef mince",
+                "Basil",
+                "Oregano",
+                "Spaghetti"
+            ]
+        }
     ],
     "method": [
         "Finely chop the onion, and put it in a pan with some olive oil over medium heat.",

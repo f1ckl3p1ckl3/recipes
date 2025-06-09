@@ -1,18 +1,32 @@
 {
     "id": 14,
-    "image": "chickenschnit.webp",
+    "image": "potatosalad.webp",
     "title": "Potato Salad",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "Yummy german style potato salad recipe which pairs extremely...",
+    "extendedSummary": "Yummy german style potato salad recipe which pairs extremely well with german sausages or chicken schnitzels. I like to add less egg, as sometimes it can be a bit overpowering for my taste.",
     "url": "/potatosalad",
+    "category": "Salad",
+    "source": "Jan",
+    "serves": "8",
     "ingredients": [
-        "2kg potatoes (if making for two, ~6 potatoes)",
-        "1 cup sour cream",
-        "1/2 cup mayonaise",
-        "1 tbsp yellow mustard (GERMAN ONE FROM ADELAIDE!!!)",
-        "1 red onion, finely chopped",
-        "1 large glass dill pickles, finely chopped",
-        "1/2 cup fresh herbs (parsley, dill, etc)",
-        "4 hard boiled eggs, peeled and chopped"
+        {
+            "section": null,
+            "items": [
+                "2kg potatoes (if making for two, ~6 potatoes)"
+            ]
+        },
+        {
+            "section": "Dressing",
+            "items": [
+                "1 cup sour cream",
+                "1/2 cup mayonaise",
+                "1 tbsp yellow mustard (GERMAN ONE FROM ADELAIDE!!!)",
+                "1 red onion, finely chopped",
+                "1 large glass dill pickles, finely chopped",
+                "1/2 cup fresh herbs (parsley, dill, etc)",
+                "4 hard boiled eggs, peeled and chopped"
+            ]
+        }
     ],
     "method": [
         "Cook potatoes with salt (15-20 mins or until easily pierced with a fork)",

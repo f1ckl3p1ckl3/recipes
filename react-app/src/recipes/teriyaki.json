@@ -1,0 +1,46 @@
+{
+    "id": 22,
+    "image": "teriyaki.webp",
+    "title": "Teriyaki Chicken",
+    "summary": "This was my attempt at Chocolate Buddha's teriyaki chicken...",
+    "extendedSummary":  "This is my take on Chocolate Buddha's teriyaki chicken, but I have basically given up at trying to copy, and have instead created my own dish. They always use purple rice, which I have yet to find, but have included it in the recipe as I want to do it like this one day. Chocolate Buddha also serves each dish with a side of miso soup, so go ahead and do that if you're keen. This variation is actually so quick to whip up as well, and is slowly joining the meal rotation roster.",
+    "url": "/teriyakichicken",
+    "source": "Me",
+    "category": "Main",
+    "serves": "~2 people",
+    "ingredients": [
+        {
+            "section": null,
+            "items": [
+                "1 packet of chicken breast (use thigh if not making for Mika)",
+                "2 broccoli (ideally use chinese broccoli but generic broccoli still tasty asf)",
+                "Pickled ginger",
+                "Kewpie mayo",
+                "Bottle of Kikkoman thick teriyaki sauce (gf)",
+                "Seaweed",
+                "Toasted sesame seeds",
+                "2 cups of short grain rice",
+                "1 tbsp of korean black rice (optional)"
+            ]
+        },
+
+        {
+            "section": "Marinade",
+            "items": [
+                "1/2 cup of soy sauce",
+                "1 tsp of honey",
+                "1 tbsp of rice vinegar",
+                "1 tsp of sesame oil",
+                "2 cloves of minced garlic"
+            ]
+        }
+    ],
+    "method": [
+        "Cube chicken, and combine marinade ingredients, then cover chicken in marinade. Let it sit for at least 30 mins, but multiple hours would be ideal",
+        "Turn rice cooker on and begin to cook the rice",
+        "Cook the veggies (either steam or fry up however you prefer)",
+        "While that is all cooking, in a large frypan, heat up some vegetable oil, and fry up the chicken - wait until most of the marinade has evaporated, and the chicken is left with a silky shein (and ofc make sure the chicken is actually cooked)",
+        "Begin to plate, add your rice, chicken, broccoli, a good gollap of kewpie mayo, pickled ginger, some seaweed, roasted sesame seeds, and pour over the kikkoman teriyaki sauce"
+    ]
+
+}

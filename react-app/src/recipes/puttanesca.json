@@ -2,21 +2,29 @@
     "id": 7,
     "image": "puttanesca.jpg",
     "title": "Puttanesca",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "A flavourful italian sauce which is rich, tomatoey, and salty...",
+    "extendedSummary": "A flavourful italian sauce which is rich, tomatoey, and salty from the olives, capers and anchovies. This is such a simple sauce, and is pretty healthy all things considered. Must be paired with parmasen, otherwise the dish is literally ruined.",
     "url": "/puttanesca",
+    "source": "Jo",
+    "serves": "4",
     "ingredients": [
-        "Some olive oil for the pan",
-        "2 onions",
-        "3 garlic cloves",
-        "2 cans chopped tomatoes",
-        "1/2 tsp chilli flakes",
-        "1 small jar of capers",
-        "1 small jar of anchovies",
-        "1 small jar of pitted kalamata olives",
-        "3 tbsp fresh parsley chopped (optional)",
-        "Salt",
-        "Pepper",
-        "1 packet of Spaghetti"
+        {
+            "section": null,
+            "items": [
+                "Some olive oil for the pan",
+                "2 onions",
+                "3 garlic cloves",
+                "2 cans chopped tomatoes",
+                "1/2 tsp chilli flakes",
+                "1 small jar of capers",
+                "1 small jar of anchovies",
+                "1 small jar of pitted kalamata olives",
+                "3 tbsp fresh parsley chopped (optional)",
+                "Salt",
+                "Pepper",
+                "1 packet of Spaghetti"
+            ]
+        }
     ],
     "method": [
         "Heat the oil in a fry pan, and add finely chopped onions and cook until nice and caramelised",

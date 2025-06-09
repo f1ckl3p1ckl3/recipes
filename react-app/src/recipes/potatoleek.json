@@ -1,0 +1,47 @@
+{
+    "id": 23,
+    "image": "potatoleek.webp",
+    "title": "Potato and Leek Soup",
+    "summary": "Goated winter soup recipe by he who shall not be named...",
+    "extendedSummary":  "Goated winter soup recipe by he who shall not be named. It's also pretty low effort (just takes a long time to simmer), pretty cheap, and has not many ingredients at all... so it's super easy. Just requires a blender or handblender of some sort.",
+    "url": "/potatoleek",
+    "source": "Estranged Uncle 💀",
+    "serves": "3",
+    "category": "Soup",
+    "ingredients": [
+        {
+            "section": "Soup",
+            "items": [
+                "2 leeks",
+                "1 onion",
+                "2 tbsp butter",
+                "3-4 medium potatoes",
+                "1.5 L chicken stock",
+                "1 cup of milk",
+                "salt & pepper"
+            ]
+        },
+        {
+            "section": "Cheesy toast",
+            "items": [
+                "4 slices of gf bread",
+                "Shredded Mozzarella",
+                "IGA parmesan",
+                "Dried Oregano"
+            ]
+        }
+
+    ],
+    "method": [
+        "Melt butter in saucepan, add chopped onions, soften, then add chopped leek",
+        "Add stock",
+        "Peel and chop potatoes and add to saucepan",
+        "Simmer 1/2 hour to 1 hour",
+        "Mash in pot or blender",
+        "Simmer slowly for a further 1/2 hour",
+        "Add milk but don't boil",
+        "For the cheesy toast, set oven to 200°C, and layout toast on a pan, butter toast, add cheeses, and sprinkle some oregano over the top",
+        "Cook for 10 mins or until golden brown and a bit cripsy"
+    ]
+
+}

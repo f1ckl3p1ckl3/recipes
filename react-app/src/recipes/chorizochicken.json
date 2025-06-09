@@ -2,15 +2,23 @@
     "id": 2,
     "image": "chorizochicken.jpg",
     "title": "Chorizo Chicken",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "Yet another absolute banger, it is such a simple dish but contains...",
+    "extendedSummary": "Yet another absolute banger - it is such a simple dish but contains really flavourful ingredients which absolutely carry. It is also a one pot dish that doesn't taste like absolute crap, so I highly recommend this. We also always serve this with a bowl of rice.",
     "url": "/chorizochicken",
+    "source": "Mika",
+    "serves": "6",
     "ingredients": [
-        "1 large packet of chicken breast cut into pieces",
-        "2 chorizo sausages",
-        "2 red capsicums",
-        "1 can of chopped tomatoes",
-        "Dash of white wine",
-        "1 Jar of pitted kalamata olives"
+        {
+            "section": null,
+            "items": [
+                "1 large packet of chicken breast cut into pieces",
+                "2 chorizo sausages",
+                "2 red capsicums",
+                "1 can of chopped tomatoes",
+                "Dash of white wine",
+                "1 Jar of pitted kalamata olives"
+            ]
+        }
     ],
     "method": [
         "Preheat oven to 200°C",

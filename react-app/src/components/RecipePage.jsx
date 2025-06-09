@@ -5,6 +5,7 @@ export default function RecipePage(props)
 {
     var ingredientsList = props.ingredients;
     var methodList = props.method;
+    const hasSections = ingredientsList.some(group => group.section);
 
     return(
         <div className={styles.recipeContainer}>
@@ -15,26 +16,34 @@ export default function RecipePage(props)
                     <h1>{props.title}</h1>
                 </div>
 
-                <div className={styles.descriptionContainer}>
-                    <p>{props.summary}</p>
+                <div className={styles.servesContainer}>
+                    <p>Serves: {props.serves}</p>
                 </div>
 
+                <div className={styles.sourceContainer}>
+                    <p>Source: {props.source}</p>
+                </div>
                 
                 <div className={styles.imageContainer}>
                     <Image src={props.image} fluid rounded class="fitting-image"/>
                 </div>
+                <div className={styles.descriptionContainer}>
+                    <p>{props.extendedSummary}</p>
+                </div>
 
-                <div className={styles.ingredientsContainer}>
-                <h2>Ingredients:</h2>
-                <p>
-                    <ul>
-                    {ingredientsList.map((ingredient) => (
-                        <li>{ingredient}</li>
+                <div className={`${styles.ingredientsContainer} ${hasSections ? styles.withSections : styles.noSections}`}>
+                    <h2>Ingredients:</h2>
+                    {ingredientsList.map((group, index) => (
+                        <ul key={index} className={styles.ingredientGroup}>
+                        {group.section && (
+                            <li className={styles.ingredientSection}>{group.section}</li>
+                        )}
+                        {group.items.map((item, i) => (
+                            <li key={i} className={styles.ingredientItem}>{item}</li>
+                        ))}
+                        </ul>
                     ))}
-                </ul>
-                </p>
-            </div>
-
+                </div>
 
                 <div className={styles.methodContainer}>
                     <h3>Method:</h3>
@@ -51,42 +60,4 @@ export default function RecipePage(props)
 
         </div>
     );
-                }
-
-
-
-
-
-{/* 
-        // <div className={styles.body}>
-        //     <h1>{props.title}</h1>
-        //     <h6>{props.summary}</h6>
-        //     <div className={styles.image}>
-        //         <figure>
-        //         <Image src={props.image} fluid rounded class="fitting-image"/>
-        //         <figcaption><i>{props.title}</i></figcaption>
-        //         </figure>
-        //     </div>
-        //     <div class="container">
-        //     <div className={styles.ingredients}>
-        //     <h2>Ingredients:</h2>
-        //     <p>
-        //         <ul>
-        //         {ingredientsList.map((ingredient) => ( */}
-        {/* //             <li>{ingredient}</li>
-        //         ))}
-        //         </ul>
-        //     </p>
-        //     </div>
-        //     </div> */}
-        {/* //     <h2>Method:</h2>
-        //     <p>
-        //         <ol>
-        //     {methodList.map((method) => ( */}
-        {/* //             <li>{method}</li>
-        //         ))}
-        //         </ol>
-        //     </p>
-        // </div>
-//     );
-// } */}
+}

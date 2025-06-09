@@ -2,23 +2,36 @@
     "id": 11,
     "image": "pepperrice.webp",
     "title": "Pepper rice",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "I love pepper lunch but every item on the menu...",
+    "extendedSummary": "I love pepper lunch but every item on the menu is riddled with gluten. That didn't stop me during uni though... me and william's pepper lunch outings have probably caused irreversible damage to my small intestine. This recipe honestly tastes just as good as the real thing, and is so quick to make. If you are an og, you will top this with mozzarella cheese, and grab a side of kimchi (the cheese sounds foul but trust it is actually super yummy).",
     "url": "/pepperrice",
+    "source": "Tiktok",
+    "serves": "2",
     "ingredients": [
-        "1/4 onion",
-        "1 small can of corn",
-        "1 small fillet of steak, sliced super thinly against the grain",
-        "1-2 green onion, sliced",
-        "1 cup of rice",
-        "[SAUCE] 2 tbsp soy sauce",
-        "[SAUCE] 1 1/2 tbsp honey",
-        "[SAUCE] 1 tbsp oyster sauce",
-        "[SAUCE] 2 garlic cloves grated/finely minced",
-        "[SAUCE] 1/2-1 tsp ground black pepper"
+        {
+            "section": "Sauce",
+            "items": [
+                "2 tbsp soy sauce",
+                "1 1/2 tbsp honey",
+                "1 tbsp oyster sauce",
+                "2 garlic cloves grated/finely minced",
+                "1/2-1 tsp ground black pepper"
+            ]
+        },
+        {
+            "section": "Rice",
+            "items": [
+                "1/4 onion",
+                "1 small can of corn",
+                "1 small fillet of steak, sliced super thinly against the grain",
+                "1-2 green onion, sliced",
+                "1 cup of rice"
+            ]
+        }
     ],
     "method": [
         "Preheat cast iron skillet or any skillet with enough oil to lightly grease the bottom of the skillet over medium-high heat",
-        "Add the onions and saute for 2-3 minutes or until onions start to soften",
+        "Add the onions and sauté for 2-3 minutes or until onions start to soften",
         "Once onions have soften, scoot onions the the middle of the skillet, and then place the thinly sliced beef around the perimeter of the skillet. Let the beef sit for a couple minutes and then scoot the onions to the perimeter of the skillet alongside the beef.",
         "Next add the rice to the middle of the skillet where the well was created.",
         "Top the rice with the butter (the more butter the more rich and decadent the dish) and then add the corn and green onions on top.",

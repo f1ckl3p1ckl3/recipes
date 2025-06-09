@@ -1,0 +1,50 @@
+{
+    "id": 20,
+    "image": "kimchi.webp",
+    "title": "Kimchi Jjigae",
+    "summary": "Fucking love a good kimchi stew, and this recipe...",
+    "extendedSummary":  "Fucking love a good kimchi stew, and this recipe definitely delivers. Absolutely must serve this with a cup of short grain rice, and then dip that rice into the stew to soak it up... so good.",
+    "url": "/kimchijjigae",
+    "source": "My Korean Kitchen (Google)",
+    "serves": "4",
+    "category": "Soup",
+    "ingredients": [
+        {
+            "section": "Pork (optional)",
+            "items": [
+                "180 g skinless pork belly (0.4 pounds), cut into bite size pieces",
+                "1 Tbsp rice wine , sweet (mirin)",
+                "3 sprinkles ground black pepper"
+            ]
+        },
+        {
+            "section": "Toppings",
+            "items": [
+                "3/4 cup Kimchi, cut into bite size pieces if not already",
+                "1/4 small brown onion (30 g / 1 ounce), thinly sliced",
+                "1/2 stalk small green onion (5 g / 0.2 ounce), thinly sliced",
+                "2 small shiitake mushrooms (50 g / 1.4 ounces), stems removed, thinly sliced",
+                "150 g firm tofu (5.3 ounces), sliced into 1cm thickness rectangles, or other shapes you may prefer",
+                "1 cup water"
+            ]
+        },
+        {
+            "section": "Soup base",
+            "items": [
+                "1 Tbsp Korean chili flakes (gochugaru)",
+                "1 Tbsp soy sauce",
+                "1 tsp Korean chili paste (gochujang)",
+                "1/4 tsp minced garlic",
+                "3 sprinkles ground black pepper"
+            ]
+        }
+    ],
+    "method": [
+        "Marinate the pork belly with the rice wine and the ground black pepper for about 15 mins.",
+        "Cook the kimchi in a skillet until soft. (Alternatively, you can do this directly in the pot where you’ll make the jjigae, but only if the pot is large enough to maneuver easily.)",
+        "Place the marinated meat at the bottom of the pot. Add all the other ingredients—kimchi, onion, mushrooms, tofu, water, and the base sauce—into the pot, except for the green onion. (I used a clay pot with a capacity of just over 1 liter. I’ve also successfully made this using an 18cm (7-inch) Staub Cocotte without needing the skillet mentioned in the previous step.)",
+        "Bring the pot to a boil over medium-high heat. Once boiling, lower the heat to medium and continue cooking until the meat is completely cooked through, which should take about 10 to 15 minutes from the start of this step. To ensure the sauce is evenly incorporated, gently stir it into the soup using a spoon. Occasionally, spoon some of the broth over the other ingredients to help distribute the flavors. When the meat is done, add the green onion, give it a final gentle mix, and turn off the heat.",
+        "Serve with a bowl of rice and other Korean side dishes."
+    ]
+
+}

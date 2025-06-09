@@ -1,0 +1,46 @@
+{
+    "id": 30,
+    "image": "almondcroissantcake.webp",
+    "title": "Almond Croissant Cake",
+    "summary": "A pretty fancy cake which is perfect to serve with tea or coffee...",
+    "extendedSummary":  "A pretty fancy cake which is perfect to serve with tea or coffee. Make sure you use a wide and flat cake pan though, as I made the mistake of using a very small and tall one, and it literally took 2 hours to cook the cake and the inside was STILL raw (but the outside was a bit scorched...). Alternatively, just halve the recipe.",
+    "url": "/almondcroissantcake",
+    "source": "Tasting Thyme (Google)",
+    "serves": "10",
+    "category": "Dessert",
+    "ingredients": [
+        {
+            "section": "Cake",
+            "items": [
+                "200 g (1 2/3 cups) All Purpose Flour",
+                "200 g (1 cup) Granulated Sugar",
+                "200 g (1 cup) Softened Unsalted Butter (Room Temperature)",
+                "3 Large Eggs",
+                "1 1/2 tsp Baking Powder",
+                "2 tbsp (2 tbsp) Milk"
+            ]
+        },
+        {
+            "section": "Frangipane",
+            "items": [
+                "240 g (2 cups) Ground Almonds/Almond Flour",
+                "2 (2) Large Egg",
+                "160 g (¾ cups) Unsalted Butter",
+                "200 g (1 cups) Granulated Sugar",
+                "1 tsp (1 tsp) Almond Extract Optional",
+                "5 tbsp (5 tbsp) Milk",
+                "110 g (1 cup) Slivered Almonds",
+                "Powdered Sugar To Decorate"
+            ]
+        }
+    ],
+    "method": [
+        "Preheat the oven to 170°C Fan. Line an 8\" circular pan with parchment/baking paper.",
+        "In a large bowl/bowl of a stand mixer, add all the cake ingredients and combine until smooth. If very stiff, add a little more milk.",
+        "Pour into the lined pan and bake for 30-35 minutes.",
+        "While that's baking, make the frangipane: Combine the ground almonds, butter, egg, sugar, milk and almond extract (optional) to form a paste. Do this either with a spatula or with an electric mixer.",
+        "Once the cake has baked 30-35 minutes, spread this frangipane mix over the top, scatter over the slivered almonds and bake a further 10 minutes.",
+        "Remove and let cool before dusting with powdered sugar and serving!"
+    ]
+
+}

@@ -2,16 +2,24 @@
     "id": 6,
     "image": "pesto.jpg",
     "title": "Pesto",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "This recipe is so much fresher than the jar supermarket stuff...",
+    "extendedSummary": "This recipe is so much fresher than the jar supermarket stuff, and it deceptively simple to make (only hard bit is tracking down a fuck ton of fresh basil, which if you don't have a basil plant, is kind of expensive). I used to love this recipe, but ever since Mika and I made fresh handmade pasta which I thought was off at the time, and was more like angel hair instead of spaghetti, so it all kinda clumped together in an overcooked mess... this makes me feel sick lmao.",
     "url": "/pesto",
+    "source": "RecipeTin Eats",
+    "serves": "4",
     "ingredients": [
-        "2 cups basil",
-        "2 tbsp pinenuts",
-        "1/2 cup parmesan",
-        "1/2 cup extra virgin olive oil",
-        "1 garlic clove",
-        "1/2 tsp salt",
-        "1/4 tsp black pepper"
+        {
+            "section": null,
+            "items": [
+                "2 cups basil",
+                "2 tbsp pinenuts",
+                "1/2 cup parmesan",
+                "1/2 cup extra virgin olive oil",
+                "1 garlic clove",
+                "1/2 tsp salt",
+                "1/4 tsp black pepper"
+            ]
+        }
     ],
     "method": [
         "Toast pine nuts - Preheat small skillet over medium high heat (no oil). Add pine nuts and toast until light brown. Immediately remove and let cool slightly",

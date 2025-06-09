@@ -1,0 +1,56 @@
+{
+    "id": 25,
+    "image": "tiramisu.webp",
+    "title": "Tiramisu",
+    "summary": "A dessert classic which is super decadent but honestly...",
+    "extendedSummary":  "A dessert classic which is super decadent but honestly scares me to make because of the raw egg white. I would probably not recommend making this for old people or those who are sick, but I do believe aussie eggs are safe enough to eat raw. The handmade ladyfingers are also really good (kinda hard to find gf ladyfingers).",
+    "url": "/tiramisu",
+    "source": "RecipeTin Eats and Preppy Kitchen",
+    "category": "Dessert",
+    "serves": "~8",
+    "ingredients": [
+        {
+            "section": "Lady finger biscuits (or skip this and just buy store bought)",
+            "items": [
+                "3 large eggs separated",
+                "1/2 cup granulated sugar divided (100g)",
+                "1/2 teaspoon vanilla extract",
+                "1/2 teaspoon salt",
+                "1 cup all-purpose flour (120g)",
+                "5 teaspoons cornstarch",
+                "powdered sugar for dusting"
+            ]
+        },
+        {
+            "section": "Tiramisu",
+            "items": [
+                "3 eggs , yolks and whites separated",
+                "1/2 cup (110g) caster sugar (superfine sugar)",
+                "1/2 tsp vanilla extract",
+                "8 oz / 250g mascarpone",
+                "1 1/4 cups black coffee, hot and strong!",
+                "2 tbsp (or more!) Frangelico or Kahlua , or other liquor of choice (skip for alcohol free)",
+                "6.5 oz / 200g (24 – 30) lady fingers, pavesini or savoiardi biscuits (Note 3)",
+                "Cocoa , for dusting"
+            ]
+        }
+    ],
+    "method": [
+        "For the lady fingers: Preheat the oven to 350F. Line two large baking sheets with parchment paper. Place a large round piping tip in a large piping bag.",
+        "Place the egg yolks, 1/4 cup sugar, vanilla, and salt in a large mixing bowl. Beat on medium speed until pale and fluffy.",
+        "Place the egg whites in a separate bowl. Using clean beaters, beat on high speed until soft peaks form. While beating, add in the remaining 1/4 cup sugar a spoonful at a time. Beat until the egg whites are thick and glossy, about 2 more minutes.",
+        "Beat the egg yolk mixture again just to remix, then fold the egg whites into the egg yolks in batches until well combined. Sift the flour and cornstarch into the egg mixture and fold until no dry streaks remain. (If the batter is a little lumpy, that’s okay. Don’t over-mix the batter.) Transfer the batter to the prepared piping bag.",
+        "Pipe the batter into 4-inch long logs (about 1-inch wide) on the baking sheet, spacing them about 2 inches apart. Dust one sheet generously with powdered sugar.",
+        "Bake the dusted sheet for 12 to 15 minutes or until lightly golden and firm to the touch. Let cool completely on the baking sheet. Dust the remaining baking sheet with powdered sugar and bake again as directed. Use or store immediately after they cool, as they will soften the longer they are exposed to air. Ladyfingers can be stored in an airtight container at room temperature for up to 2 weeks.",
+        "For the Tiramisu: Beat yolks and sugar in stand mixer or electric beater on speed 6 to 7 for 10 minutes or until it changes from yellow to pale yellow (almost white), and is thick (see video for consistency).",
+        "Add vanilla and mascarpone, beat until just combined and smooth. Transfer mixture to a bowl, set aside.",
+        "Clean bowl and whisk. Add egg whites and beat until it's stiff (3 minutes on speed 7, should be all white foam, see video!)",
+        "Add 1/2 the cream mixture into the egg whites. Gently fold through. When most incorporated, add the remaining cream mixture and fold through until just combined – don't bash out all the air in the egg whites! (Note 4)",
+        "Mix coffee and liquor together. Quickly dip biscuits in and line the bottom of a 8”/20cm square dish. (See video or step photos above to see how I arrange them).",
+        "Spread over half the cream, then top with another layer of coffee dipped biscuits.",
+        "Spread with remaining cream.",
+        "Cover, refrigerate for at least 4 – 5 hours, preferably overnight",
+        "Dust with cocoa powder just before serving – either before you cut or after placing onto serving plates."
+    ]
+
+}

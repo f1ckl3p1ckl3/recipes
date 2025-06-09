@@ -1,7 +1,9 @@
 .card {
-
 }
+
+  
 
 .card:hover {
     transform: scale(1.015);
+    cursor: url('../assets/hello-kitty-cursor/DEFAULT.cur'), auto;
 }

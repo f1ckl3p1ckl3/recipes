@@ -2,29 +2,47 @@
     "id": 13,
     "image": "dumpling.webp",
     "title": "Pork Dumplings",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, ex sollicitudin efficitur placerat, arcu odio iaculis magna, sed tincidunt nibh felis nec libero...",
+    "summary": "This recipe creates some juicy, flavourful and very aromatic...",
+    "extendedSummary": "This recipe creates some juicy, flavourful and very aromatic dumplings, and also has a really good youtube video to go along with. These were the first ever dumplings I made, and also first dumplings I ever ate (as coeliac), and they turned out so well - so they hold a special place in my heart as someone who can basically never eat dumplings at a restaurant.",
     "url": "/dumpling",
     "source": "The Dumpling Sisters",
+    "serves": "32 dumplings",
     "ingredients": [
-        "300g plain flour",
-        "1 tbsp vegetable oil",
-        "300g pork mince",
-        "1/2 tsp bicarbonate soda",
-        "1 tsp cornflour",
-        "1 1/2 tsp salt",
-        "1 tsp granulated sugar",
-        "Pinch ground white pepper",
-        "1 tbsp shaoxing rice wine",
-        "1 tsp dark soy sauce",
-        "1 tsp light soy sauce",
-        "2 tbsp sesame oil",
-        "200g pak choi, finely chopped",
-        "2 spring onions, thinly sliced",
-        "2 tsp finely diced ginger",
-        "1 clove garlic, finely diced",
-        "[DIPPING SAUCE] 1 tsp sesame oil",
-        "[DIPPING SAUCE] 2 tbsp light soy sauce",
-        "[DIPPING SAUCE] 1 tsp chilli oil"
+        {
+            "section": "Dumpling Wrappers",
+            "items": [
+                "300g plain flour (gf)",
+                "200 ml boiling water"
+            ]
+        },
+        {
+            "section": "Filling",
+            "items": [
+                "1 tbsp vegetable oil",
+                "300g pork mince",
+                "1/2 tsp bicarbonate soda",
+                "1 tsp cornflour",
+                "1 1/2 tsp salt",
+                "1 tsp granulated sugar",
+                "Pinch ground white pepper",
+                "1 tbsp shaoxing rice wine",
+                "1 tsp dark soy sauce",
+                "1 tsp light soy sauce",
+                "2 tbsp sesame oil",
+                "200g pak choi, finely chopped",
+                "2 spring onions, thinly sliced",
+                "2 tsp finely diced ginger",
+                "1 clove garlic, finely diced"
+            ]
+        },
+        {
+            "section": "Dipping Sauce",
+            "items": [
+                "1 tsp sesame oil",
+                "2 tbsp light soy sauce",
+                "1 tsp chilli oil"
+            ]
+        }
     ],
     "method": [
         "Using a pair of chopsticks or a fork, mix the flour, salt and 200ml boiling water together in a large bowl until you have a rough ball. Be careful, as the dough will be scorching hot. Remove it from the bowl and knead for 10 minutes, or until smooth.",
