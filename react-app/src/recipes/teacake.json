@@ -1,0 +1,40 @@
+{
+    "id": 31,
+    "image": "teacake.webp",
+    "title": "Tea Cake",
+    "summary": "Super light, buttery and airy cake which with the cinnamon...",
+    "extendedSummary":  "Super light, buttery and airy cake which with the cinnamon is such an immaculate combo. Absolutely must serve this with a cup of yorkshire tea and honey.",
+    "url": "/teacake",
+    "source": "Instagram",
+    "serves": "~20 slices",
+    "category": "Dessert",
+    "ingredients": [
+        {
+            "section": "Batter",
+            "items": [
+                "120g of butter",
+                "1 cup caster sugar",
+                "1/2 tsp of vanilla essence",
+                "2 eggs",
+                "2 cups of self-raising flour",
+                "175 ml milk"
+            ]
+        },
+        {
+            "section": "Topping",
+            "items": [
+                "A few tbsps of melted butter",
+                "Cinnamon"
+            ]
+        }
+    ],
+    "method": [
+        "Preheat the oven to 180°C, and line a square baking tin with baking paper",
+        "Beat butter, sugar and vanilla together until light and creamy",
+        "Add eggs one at a time until fully incorporated, then sifted in flour and add milk (alternating between the two)",
+        "Beat batter for a few mins until smooth and light",
+        "Scoop batter into the baking tin, and bake for 35 mins or until it passes the skewer test",
+        "When out of the oven, melt some butter, and brush it over the cake, sprinkling over cinnamon at the end until - then divide into rectangular prisms"
+    ]
+
+}
