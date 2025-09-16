@@ -1,0 +1,53 @@
+{
+    "id": 31,
+    "image": "vanillaslice.webp",
+    "title": "Dulce de Leche Vanilla Slice",
+    "summary": "A gluten free version of the Dulce bakehouse's vanilla slice...",
+    "extendedSummary":  "A gluten free version of the Dulce bakehouse's vanilla slice because all my coworkers got to eat it and it looked so yummy but literally nothing in that store is gf :,) ... My first attempt was successful for the most part, but I think next time I would add a lot more vanilla, and a lot more dulce de leche. I would also cook the dulce de leche for another hour (I originally did 2).",
+    "url": "/vanillaslice",
+    "source": "The Scran Line and Preppy kitchen (Google)",
+    "serves": "18 slices",
+    "category": "Dessert",
+    "ingredients": [
+        {
+            "section": "Dulce de Leche",
+            "items": [
+                "1 can of sweetened condensed milk"
+            ]
+        },
+        {
+            "section": "Pastry",
+            "items": [
+                "2 sheets gf butter puff pastry"
+            ]
+        },
+        {
+            "section": "Vanilla Custard",
+            "items": [
+                "110g caster sugar",
+                "50g corn starch",
+                "8 egg yolks (room temp)",
+                "750g whole milk",
+                "14g vanilla bean paste",
+                "125g unsalted butter, chilled and cubed",
+                "50g powdered sugar"
+            ]
+        }
+    ],
+    "method": [
+        "For the dulce de leche: pour condensed milk into a baking safe tray, and put tray into a deep dish (think lasagne dish), filling the dish halfway with water.",
+        "Tightly wrap the tin (holding the condensed milk) with tin foil, and bake milk at 220°C for at least 2 hours (ideally 3-4 for a deeper caramel)",
+        "Dulce de leche is likely going to be lumpy asf, so use an emulsion blender to create a smoothe caramel",
+        "Preheat the oven to 180°C. Line two flat baking trays with baking paper, and lay out pastry, poke holes into pastry with fork, then chuck another baking tray ontop of pastry (so it is super flat and crisp)",
+        "Bake pastry for 30-40 mins",
+        "Pour into the lined pan and bake for 30-35 minutes.",
+        "Cut pastry to fit a deep square/rectangular tin, and coat the bottom and top pastry with a thin layer of dulce de leche (using an offset spatular)",
+        "For vanilla custard: Add the sugar and corn starch into a large heat proof bowl and whisk to combine. Then add the egg yolks and whisk until smooth. Set aside.",
+        "Place the milk into a non-stick large pot and begin heating on low heat, stirring occasionally. As soon as you see bubbles forming around the sides, take it off the heat",
+        "Add about 1/4 cup of the hot milk to the egg mixture while whisking. You want to slowly heat the egg mixture with the hot milk so that the eggs don’t heat too quickly and curdle. Add a little more milk and whisk. Once about half the milk has been added, you can add all of the milk. Whisk until combined.",
+        "Add the mixture back into the pot and begin stirring on medium heat. The mixture will begin to thicken after about 3-4 minutes. Once it’s completely thickened, continue stirring until it begins to bubble and steam. When it bubbles, stir for 3 minutes, then take off the heat and add the vanilla bean paste. Stir until combined.",
+        "While the mixture is hot, add the cold butter in 4 batches, stirring each time. You want to add the butter slowly so that it has time to mix and melt into the custard without splitting it. This is also why we use cold butter. It melts slower.",
+        "Line the bottom and sides of the baking tray with baking paper or double layers of plastic wrap, leaving some overhang and place the smaller pastry sheet in the bottom. Run the custard through a sieve on top of the pastry to remove lumps. Use a spatula to smoothen out flat. Place the second pastry sheet on top and cover with the baking paper or plastic wrap. Place it in the fridge to chill for a minimum of 5 hours, or overnight for best results."
+    ]
+
+}
