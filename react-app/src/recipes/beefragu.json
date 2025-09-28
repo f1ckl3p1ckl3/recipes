@@ -1,0 +1,53 @@
+{
+    "id": 32,
+    "image": "beefragu.webp",
+    "title": "Beef Ragu Pappardelle",
+    "summary": "A super rich, luxurious sauce which is worth the effort...",
+    "extendedSummary":  "A super rich, luxurious sauce which is worth the effort. When I was following this recipe, I did not fully comprehend that it took 8 hours, so if you are going to do this recipe definitely have to dedicate an entire day to it. But the resulting sauce is super yummy and I will be making it again.",
+    "url": "/beefragu",
+    "source": "Into the sauce (Google)",
+    "serves": "6 people",
+    "category": "Pasta",
+    "ingredients": [
+        {
+            "section": "Sauce",
+            "items": [
+                "1/4 cup (57g) butter",
+                "1/2 cup (120g) extra virgin olive oil",
+                "2 onions, finely diced",
+                "3 carrots, finely diced",
+                "3 celery stalks, finely diced",
+                "8 cloves garlic, crushed",
+                "1 tub of the small tomato paste",
+                "400ml full bodied red wine (cabernet sauvignon)",
+                "1.2kg - 1.5kg short ribs",
+                "700g tomato passata",
+                "2L beef stock",
+                "1/2 tsp chilli flakes (optional)",
+                "3 bay leaves",
+                "5 sprigs thyme, leaves picked or sprigs tied together with cooking twine",
+                "Parmesan rind (optional)",
+                "Pasta, to serve (I recommend pappardelle, rigatoni or casarecce)"
+            ]
+        }
+    ],
+    "method": [
+        "Heat butter and half the olive oil (¼ cup) in a large pan over medium heat.",
+        "Add onion, carrot, celery and garlic. Season well with salt and cracked black pepper.",
+        "Sauté vegetables until softened and onion is translucent (around 15 minutes).",
+        "Add tomato paste and cook, stirring often, until the colour deepens.",
+        "Add red wine and simmer until wine is reduced by two thirds.",
+        "Pour vegetable mix into a bowl and set aside to cool down slightly.",
+        "Once cool, transfer vegetable mix (add the passata if you want to speed this up and cool the mix down) to a blender and blend vegetables until very smooth. You can also use a stick blender.",
+        "Meanwhile, in your now empty pan, heat remaining olive oil over medium-high heat and fry off short ribs (pre seasoned with salt and pepper) until each side is golden and caramelised (about 2 mins each side).",
+        "Turn off the heat, remove beef ribs to a plate and pour out any excess oil.",
+        "Add to the pot your vegetable mix, tomato passata, beef stock, chilli flakes (optional), bay leaves, thyme and a Parmesan rind if you have one. Stir until incorporated, then add ribs.",
+        "Reduce heat to very low and simmer for 6-8 hours (with lid off or ajar - I go lid off, with a splatter guard over the top), until meat is falling off the bone.",
+        "Remove meat to a tray and allow to cool.",
+        "While meat is cooling, remove and discard thyme sprigs, Parmesan rind and bay leaves.",
+        "Pick meat off bones, removing any fatty or gristly bits, then return meat pieces to the sauce and stir to combine. Taste and season.",
+        "When you’re ready to serve, cook pasta in a large pot of salted, boiling water until al dente, reserving 1 cup of pasta water.",
+        "Drain pasta, then add it back to the pot you cooked it in. Spoon in your desired amount of ragu and a knob of butter and bring to a simmer, stirring. If the sauce is too thick, stir in pasta water tbsp by tbsp until the consistency is perfect."
+    ]
+
+}
