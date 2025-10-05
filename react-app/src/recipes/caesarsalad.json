@@ -1,0 +1,42 @@
+{
+    "id": 33,
+    "image": "caesarsalad.webp",
+    "title": "Caesar Salad",
+    "summary": "Extremely rich and creamy salad which goes suuuper well with lasagne...",
+    "extendedSummary":  "Extremely rich and creamy salad which goes suuuper well with lasagne. I wanted to try recreate the same caesar salad that the bmd chefs made for a chicken parma at lunch, since I couldn't stop thinking about it... this comes kind of close but not quite as yummy as their one.",
+    "url": "/caesarsalad",
+    "source": "Once upon a chef (Google)",
+    "serves": "8 people",
+    "category": "Salad",
+    "ingredients": [
+        {
+            "section": "Dressing",
+            "items": [
+               "2 small garlic cloves, minced",
+                "1 teaspoon anchovy paste (or two tiny jarred anchovies ground to a paste)",
+                "2 tablespoons freshly squeezed lemon juice, from one lemon",
+                "1 teaspoon Dijon mustard (I like the brand Maille)",
+                "1 teaspoon Worcestershire sauce",
+                "1 cup mayonnaise, best quality such as Hellmann's Real",
+                "1/2 cup freshly grated Parmigiano-Reggiano",
+                "1/4 teaspoon salt",
+                "1/4 teaspoon freshly ground black pepper"
+
+            ]
+        },
+        {
+            "section": "Salad",
+            "items": [
+                "2 Romaine/little gem lettuce heads",
+                "Shaved parmesan",
+                "Croutons"
+            ]
+        }
+    ],
+    "method": [
+        "In a medium bowl, whisk together the garlic, anchovy paste, lemon juice, Dijon mustard and Worcestershire sauce. Add the mayonnaise, Parmigiano-Reggiano, salt and pepper and whisk until well combined. Taste and adjust to your liking. The dressing will keep well in the fridge for about a week.",
+        "Chop lettuce in half length ways, remove hard base (with a triangle incission), slice in half length ways again, then start chopping horizontally to create bite sized pieces, then rinse thoroughly",
+        "Add dressing to lettuce, croutons (optional), and sprinkle shaved parmesan on top"
+    ]
+
+}
