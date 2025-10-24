@@ -1,0 +1,50 @@
+{
+    "id": 33,
+    "image": "tiramisucake.webp",
+    "title": "Tiramisu Cake",
+    "summary": "Aesthetic cake which is super easy but looks high effort...",
+    "extendedSummary":  "Aesthetic cake which is super easy but looks high effort and ended up pretty tasty. I was afraid to use raw eggs for the tiramisu mascarpone mixture, but admittently it is very important for the iconic tiramisu texture, but luckily it didn't majorly impact the flavour.",
+    "url": "/tiramisucake",
+    "source": "Me",
+    "serves": "6 people",
+    "category": "Dessert",
+    "ingredients": [
+        {
+            "section": "Lady Fingers",
+            "items": [
+                "3 large eggs separated",
+                "1/2 cup granulated sugar divided (100g)",
+                "1/2 teaspoon vanilla extract",
+                "1/2 teaspoon salt",
+                "1 cup all-purpose flour (120g)",
+                "5 teaspoons cornstarch",
+                "powdered sugar for dusting"
+            ]
+        },
+        {
+            "section": "Tiramisu Base",
+            "items": [
+                "400g mascarpone cheese",
+                "350 ml heavy cream",
+                "120g caster sugar",
+                "250 ml espresso",
+                "50 ml Marsala wine",
+                "Cocoa powder (for dusting)"
+            ]
+        }
+    ],
+    "method": [
+        "(Follow the tiramisu recipe for more detail) For the lady fingers: Preheat the oven to 350F. Line two large baking sheets with parchment paper. Place a large round piping tip in a large piping bag.",
+        "Place the egg yolks, 1/4 cup sugar, vanilla, and salt in a large mixing bowl. Beat on medium speed until pale and fluffy.",
+        "Place the egg whites in a separate bowl. Using clean beaters, beat on high speed until soft peaks form. While beating, add in the remaining 1/4 cup sugar a spoonful at a time. Beat until the egg whites are thick and glossy, about 2 more minutes.",
+        "Beat the egg yolk mixture again just to remix, then fold the egg whites into the egg yolks in batches until well combined. Sift the flour and cornstarch into the egg mixture and fold until no dry streaks remain. (If the batter is a little lumpy, that’s okay. Don’t over-mix the batter.) Transfer the batter to the prepared piping bag.",
+        "Pipe the batter into 4-inch long logs (about 1-inch wide) on the baking sheet, spacing them about 2 inches apart. Dust one sheet generously with powdered sugar.",
+        "Bake the dusted sheet for 12 to 15 minutes or until lightly golden and firm to the touch. Let cool completely on the baking sheet. Dust the remaining baking sheet with powdered sugar and bake again as directed. Use or store immediately after they cool, as they will soften the longer they are exposed to air. Ladyfingers can be stored in an airtight container at room temperature for up to 2 weeks.",
+        "For the filling, whip heavy cream until stiff peaks form",
+        "In another bowl, beat mascarpone cheese and caster sugar until light and fluffy",
+        "Fold in cream into the cheese mixture",
+        "Add Marsala to espresso mixture, and dip lady fingers into coffee briefly then layer with cheese mixture inside a circular spring pan (with baking paper lining bottom and sides)",
+        "Set in fridge over night, and dust with cocoa powder before serving."
+    ]
+
+}
