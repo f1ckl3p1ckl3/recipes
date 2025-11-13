@@ -1,0 +1,26 @@
+{
+    "id": 35,
+    "image": "guacamole.webp",
+    "title": "Guacamole",
+    "summary": "THE GREATEST guacamole recipe of all time. It is so fresh with the...",
+    "extendedSummary": "THE GREATEST guacamole recipe of all time. It is so fresh with the lemon juice, and it really helps to cut through the garlic flavour. I was shocked at how easily Mika managed to make this, and it came out restaurant quality (tasted very similar to Mamacita's guacamole). I wish I could somehow make their corn chips too that would be amazing.",
+    "url": "/guacamole",
+    "source": "Mika",
+    "serves": "4 people",
+    "ingredients": [
+        {
+            "section": "Guacamole",
+            "items": [
+                "2 avocados",
+                "1 small-medium garlic clove, finely diced (big one would overpower 2 avocados, so would probs need 3)",
+                "~1 tbsp Lemon juice",
+                "Salt and pepper for seasoning"
+            ]
+        }
+    ],
+    "method": [
+        "Cube up the avocados then squash them with a fork until you get a uniform consistency",
+        "Finely dice your garlic clove and add that, lemon juice to the avocados",
+        "Season to taste with salt and pepper (it'll probably need a lot more seasoning than you think)."
+    ]
+}
